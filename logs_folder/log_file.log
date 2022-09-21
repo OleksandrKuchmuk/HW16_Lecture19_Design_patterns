@@ -1,0 +1,54 @@
+[INFO] 2022-09-21 11:27:12.144 Cat:11 - I am a cat and i say: Meow 
+[INFO] 2022-09-21 11:27:12.160 Dog:11 - I am a dog and i say: Woof 
+[INFO] 2022-09-21 11:27:12.160 Cow:11 - I am a cow and i say: Moo 
+[INFO] 2022-09-21 11:27:12.160 Duck:11 - I am a duck and i say: Quack-quack 
+[INFO] 2022-09-21 11:31:05.128 MainFactory:9 - This is the Factory pattern, and show how it works 
+[INFO] 2022-09-21 11:31:05.128 Cat:11 - I am a cat and i say: Meow 
+[INFO] 2022-09-21 11:31:05.128 Dog:11 - I am a dog and i say: Woof 
+[INFO] 2022-09-21 11:31:05.128 Cow:11 - I am a cow and i say: Moo 
+[INFO] 2022-09-21 11:31:05.143 Duck:11 - I am a duck and i say: Quack-quack 
+[INFO] 2022-09-21 11:33:38.038 MainFactory:9 - This is the Factory pattern, and show how it works 
+[INFO] 2022-09-21 11:33:38.053 MainFactory:12 - get an object of Cat and call its say method. 
+[INFO] 2022-09-21 11:33:38.053 Cat:11 - I am a cat and i say: Meow 
+[INFO] 2022-09-21 11:33:38.053 MainFactory:15 - get an object of Dog and call its say method. 
+[INFO] 2022-09-21 11:33:38.053 Dog:11 - I am a dog and i say: Woof 
+[INFO] 2022-09-21 11:33:38.053 MainFactory:18 - get an object of Cow and call its say method. 
+[INFO] 2022-09-21 11:33:38.053 Cow:11 - I am a cow and i say: Moo 
+[INFO] 2022-09-21 11:33:38.053 MainFactory:21 - get an object of Duck and call its say method. 
+[INFO] 2022-09-21 11:33:38.053 Duck:11 - I am a duck and i say: Quack-quack 
+[INFO] 2022-09-21 12:17:01.949 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:17:01.949 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:17:01.964 MainFacadePattern:18 - This text read from file:  
+[INFO] 2022-09-21 12:17:50.742 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:17:50.742 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:17:50.742 MainFacadePattern:18 -  
+[INFO] 2022-09-21 12:18:15.917 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:18:15.927 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:18:15.927 MainFacadePattern:18 -  
+[INFO] 2022-09-21 12:18:38.610 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:18:38.626 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:20:25.295 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:20:25.305 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:36:47.491 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:36:47.491 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:36:47.491 MainFacadePattern:18 - This text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 12:37:27.309 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:37:27.309 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:37:27.309 MainFacadePattern:18 - This text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 12:39:03.441 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:39:03.441 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:39:03.457 MainFacadePattern:18 - This text will be write to file and then read from file by other methodnul 
+[INFO] 2022-09-21 12:40:08.848 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:40:08.848 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:40:08.848 MainFacadePattern:18 - This text will be write to file and then read from file by other methodnul 
+[INFO] 2022-09-21 12:40:37.990 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:40:38.000 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:40:38.000 MainFacadePattern:18 - This text will be write to file and then read from file by other metho 
+[INFO] 2022-09-21 12:40:51.221 MainFacadePattern:14 - In this step we write some text to file 
+[INFO] 2022-09-21 12:40:51.227 MainFacadePattern:17 - In this step we read some text from file 
+[INFO] 2022-09-21 12:40:51.227 MainFacadePattern:18 - This text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 12:43:31.301 MainFacadePattern:10 - This is the Facade pattern, and show how it works 
+[INFO] 2022-09-21 12:43:31.301 MainFacadePattern:12 - This text will be write to file.txt: This text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 12:43:31.317 MainFacadePattern:16 - In this step we write some text to file 
+[INFO] 2022-09-21 12:43:31.317 MainFacadePattern:19 - In this step we read some text from file 
+[INFO] 2022-09-21 12:43:31.317 MainFacadePattern:20 - This text will be write to file and then read from file by other method 
