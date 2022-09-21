@@ -1,11 +1,13 @@
 package com.cursor.factoryPattern;
 
+import com.cursor.Main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class MainFactory {
     private static final Logger LOGGER = LogManager.getLogger(MainFactory.class);
-    public static void main(String[] args) {
+
+    public void factoryMain() {
         LOGGER.info("This is the Factory pattern, and show how it works");
         AnimalsFactory animalsFactory = new AnimalsFactory();
 
@@ -21,5 +23,7 @@ public class MainFactory {
         LOGGER.info("get an object of Duck and call its say method.");
         Animal animal4 = animalsFactory.getAnimal("duck");
         animal4.say();
+
+        Main.main(new String[]{"0"});
     }
 }

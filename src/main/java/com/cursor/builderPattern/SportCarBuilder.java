@@ -9,13 +9,11 @@ public class SportCarBuilder extends CarBuilder {
     @Override
     void buildMaxSpeed() {
         car.setMaxSpeed(450);
-
     }
 
     @Override
     void buildTypeOfBody() {
         car.setTypeOfBody("Coupe");
-
     }
 
     @Override

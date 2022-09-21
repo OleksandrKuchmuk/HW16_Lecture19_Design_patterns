@@ -62,3 +62,142 @@ Car{modelName='Grand Picasso', maxSpeed=250, typeOfBody='Minivan', color='Silver
 [INFO] 2022-09-21 14:25:40.341 CarBuildRunner:23 - Create sport car with OffRoadCarBuilder() 
 [INFO] 2022-09-21 14:25:40.342 CarBuildRunner:26 - And we have off-road car: 
 Car{modelName='Jimny', maxSpeed=200, typeOfBody='Off-Road', color='Black'} 
+[INFO] 2022-09-21 17:17:56.184 ProgramLogger:24 - 
+
+LOGGER: This is log file. 
+
+this is the first log entry in this program
+this is the second log entry in this program
+this is the third log entry in this program
+ 
+[INFO] 2022-09-21 17:18:59.169 ProgramLogger:24 - 
+
+LOGGER: This is log file. 
+
+This is the first log entry in this program
+This is the second log entry in this program
+This is the third log entry in this program
+ 
+[INFO] 2022-09-21 17:43:15.658 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:43:15.662 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:43:15.663 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:43:15.663 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:43:33.745 CarBuildRunner:10 - This is the Builder pattern, and show how it works 
+[INFO] 2022-09-21 17:43:33.746 CarBuildRunner:13 - Create sport car with SportCarBuilder() 
+[INFO] 2022-09-21 17:43:33.764 CarBuildRunner:16 - And we have sport car: 
+Car{modelName='Diablo', maxSpeed=450, typeOfBody='Coupe', color='Red'} 
+[INFO] 2022-09-21 17:43:33.764 CarBuildRunner:18 - Create sport car with FamilyCarBuilder() 
+[INFO] 2022-09-21 17:43:33.767 CarBuildRunner:21 - And we have family car: 
+Car{modelName='Grand Picasso', maxSpeed=250, typeOfBody='Minivan', color='Silver'} 
+[INFO] 2022-09-21 17:43:33.767 CarBuildRunner:23 - Create sport car with OffRoadCarBuilder() 
+[INFO] 2022-09-21 17:43:33.768 CarBuildRunner:26 - And we have off-road car: 
+Car{modelName='Jimny', maxSpeed=200, typeOfBody='Off-Road', color='Black'} 
+[INFO] 2022-09-21 17:45:36.101 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:45:36.105 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:45:36.106 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:45:36.107 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:45:42.580 MainFacadePattern:10 - This is the Facade pattern, and show how it works 
+[INFO] 2022-09-21 17:45:42.581 MainFacadePattern:12 - Text to write to file.txt: Text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 17:45:42.583 MainFacadePattern:16 - In this step we write some text to file 
+[INFO] 2022-09-21 17:45:42.584 MainFacadePattern:19 - In this step we read some text from file 
+[INFO] 2022-09-21 17:45:42.585 MainFacadePattern:20 - Text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 17:48:43.961 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:48:43.964 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:48:43.965 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:48:43.965 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:48:48.173 CarBuildRunner:11 - This is the Builder pattern, and show how it works 
+[INFO] 2022-09-21 17:48:48.174 CarBuildRunner:14 - Create sport car with SportCarBuilder() 
+[INFO] 2022-09-21 17:48:48.196 CarBuildRunner:17 - And we have sport car: 
+Car{modelName='Diablo', maxSpeed=450, typeOfBody='Coupe', color='Red'} 
+[INFO] 2022-09-21 17:48:48.196 CarBuildRunner:19 - Create family car with FamilyCarBuilder() 
+[INFO] 2022-09-21 17:48:48.197 CarBuildRunner:22 - And we have family car: 
+Car{modelName='Grand Picasso', maxSpeed=250, typeOfBody='Minivan', color='Silver'} 
+[INFO] 2022-09-21 17:48:48.198 CarBuildRunner:24 - Create off-road car with OffRoadCarBuilder() 
+[INFO] 2022-09-21 17:48:48.199 CarBuildRunner:27 - And we have off-road car: 
+Car{modelName='Jimny', maxSpeed=200, typeOfBody='Off-Road', color='Black'} 
+[INFO] 2022-09-21 17:48:48.200 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:48:48.200 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:48:48.201 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:48:48.202 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:55:16.632 Main:10 - 
+
+Tis is the main class and you can start from here
+
+ 
+[INFO] 2022-09-21 17:55:16.636 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:55:16.637 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:55:16.637 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:55:16.638 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:55:16.640 Service:26 - To stop the program enter 0 
+[INFO] 2022-09-21 17:55:25.373 CarBuildRunner:11 - This is the Builder pattern, and show how it works 
+[INFO] 2022-09-21 17:55:25.374 CarBuildRunner:14 - Create sport car with SportCarBuilder() 
+[INFO] 2022-09-21 17:55:25.391 CarBuildRunner:17 - And we have sport car: 
+Car{modelName='Diablo', maxSpeed=450, typeOfBody='Coupe', color='Red'} 
+[INFO] 2022-09-21 17:55:25.391 CarBuildRunner:19 - Create family car with FamilyCarBuilder() 
+[INFO] 2022-09-21 17:55:25.392 CarBuildRunner:22 - And we have family car: 
+Car{modelName='Grand Picasso', maxSpeed=250, typeOfBody='Minivan', color='Silver'} 
+[INFO] 2022-09-21 17:55:25.392 CarBuildRunner:24 - Create off-road car with OffRoadCarBuilder() 
+[INFO] 2022-09-21 17:55:25.393 CarBuildRunner:27 - And we have off-road car: 
+Car{modelName='Jimny', maxSpeed=200, typeOfBody='Off-Road', color='Black'} 
+[INFO] 2022-09-21 17:55:25.394 Main:10 - 
+
+Tis is the main class and you can start from here
+
+ 
+[INFO] 2022-09-21 17:55:25.394 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:55:25.395 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:55:25.395 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:55:25.395 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:55:25.396 Service:26 - To stop the program enter 0 
+[INFO] 2022-09-21 17:56:11.891 MainFacadePattern:11 - This is the Facade pattern, and show how it works 
+[INFO] 2022-09-21 17:56:11.892 MainFacadePattern:13 - Text to write to file.txt: Text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 17:56:11.894 MainFacadePattern:17 - In this step we write some text to file 
+[INFO] 2022-09-21 17:56:11.895 MainFacadePattern:20 - In this step we read some text from file 
+[INFO] 2022-09-21 17:56:11.896 MainFacadePattern:21 - Text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 17:56:11.896 Main:10 - 
+
+Tis is the main class and you can start from here
+
+ 
+[INFO] 2022-09-21 17:56:11.897 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:56:11.897 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:56:11.898 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:56:11.898 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:56:11.899 Service:26 - To stop the program enter 0 
+[INFO] 2022-09-21 17:56:16.635 MainFactory:10 - This is the Factory pattern, and show how it works 
+[INFO] 2022-09-21 17:56:16.637 MainFactory:13 - get an object of Cat and call its say method. 
+[INFO] 2022-09-21 17:56:16.640 Cat:11 - I am a cat and i say: Meow 
+[INFO] 2022-09-21 17:56:16.640 MainFactory:16 - get an object of Dog and call its say method. 
+[INFO] 2022-09-21 17:56:16.641 Dog:11 - I am a dog and i say: Woof 
+[INFO] 2022-09-21 17:56:16.641 MainFactory:19 - get an object of Cow and call its say method. 
+[INFO] 2022-09-21 17:56:16.643 Cow:11 - I am a cow and i say: Moo 
+[INFO] 2022-09-21 17:56:16.643 MainFactory:22 - get an object of Duck and call its say method. 
+[INFO] 2022-09-21 17:56:16.644 Duck:11 - I am a duck and i say: Quack-quack 
+[INFO] 2022-09-21 17:56:16.644 Main:10 - 
+
+Tis is the main class and you can start from here
+
+ 
+[INFO] 2022-09-21 17:56:16.645 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:56:16.645 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:56:16.646 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:56:16.646 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:56:16.646 Service:26 - To stop the program enter 0 
+[INFO] 2022-09-21 17:56:21.952 ProgramLogger:26 - 
+
+LOGGER: This is log file. 
+
+This is the first log entry in this program
+This is the second log entry in this program
+This is the third log entry in this program
+ 
+[INFO] 2022-09-21 17:56:21.952 Main:10 - 
+
+Tis is the main class and you can start from here
+
+ 
+[INFO] 2022-09-21 17:56:21.953 Service:22 - To start the program with pattern Builder enter 1 
+[INFO] 2022-09-21 17:56:21.953 Service:23 - To start the program with pattern Facade enter 2 
+[INFO] 2022-09-21 17:56:21.954 Service:24 - To start the program with pattern Factory enter 3 
+[INFO] 2022-09-21 17:56:21.954 Service:25 - To start the program with pattern Singleton enter 4 
+[INFO] 2022-09-21 17:56:21.955 Service:26 - To stop the program enter 0 

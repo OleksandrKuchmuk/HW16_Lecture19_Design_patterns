@@ -1,15 +1,16 @@
 package com.cursor.facadePattern;
 
+import com.cursor.Main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class MainFacadePattern {
     private static final Logger LOGGER = LogManager.getLogger(MainFacadePattern.class);
 
-    public static void main(String[] args) {
+    public void facadeRunner() {
         LOGGER.info("This is the Facade pattern, and show how it works");
         String textToFile = "Text will be write to file and then read from file by other method";
-        LOGGER.info("Text to write to file.txt: "+textToFile);
+        LOGGER.info("Text to write to file.txt: " + textToFile);
         WriteToFileFacade writeToFile = new WriteToFileFacade();
         ReadFromFileFacade readFromFile = new ReadFromFileFacade();
 
@@ -18,7 +19,7 @@ public class MainFacadePattern {
 
         LOGGER.info("In this step we read some text from file");
         LOGGER.info(readFromFile.readFile("file.txt"));
-
+        Main.main(new String[]{"0"});
 
     }
 

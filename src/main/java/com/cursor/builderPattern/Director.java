@@ -7,7 +7,7 @@ public class Director {
         this.builder = builder;
     }
 
-    Car buildCar(){
+    Car buildCar() {
         builder.createCar();
         builder.buildModelName();
         builder.buildMaxSpeed();
