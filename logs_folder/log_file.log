@@ -52,3 +52,13 @@
 [INFO] 2022-09-21 12:43:31.317 MainFacadePattern:16 - In this step we write some text to file 
 [INFO] 2022-09-21 12:43:31.317 MainFacadePattern:19 - In this step we read some text from file 
 [INFO] 2022-09-21 12:43:31.317 MainFacadePattern:20 - This text will be write to file and then read from file by other method 
+[INFO] 2022-09-21 14:25:40.288 CarBuildRunner:10 - This is the Builder pattern, and show how it works 
+[INFO] 2022-09-21 14:25:40.294 CarBuildRunner:13 - Create sport car with SportCarBuilder() 
+[INFO] 2022-09-21 14:25:40.339 CarBuildRunner:16 - And we have sport car: 
+Car{modelName='Diablo', maxSpeed=450, typeOfBody='Coupe', color='Red'} 
+[INFO] 2022-09-21 14:25:40.340 CarBuildRunner:18 - Create sport car with FamilyCarBuilder() 
+[INFO] 2022-09-21 14:25:40.341 CarBuildRunner:21 - And we have family car: 
+Car{modelName='Grand Picasso', maxSpeed=250, typeOfBody='Minivan', color='Silver'} 
+[INFO] 2022-09-21 14:25:40.341 CarBuildRunner:23 - Create sport car with OffRoadCarBuilder() 
+[INFO] 2022-09-21 14:25:40.342 CarBuildRunner:26 - And we have off-road car: 
+Car{modelName='Jimny', maxSpeed=200, typeOfBody='Off-Road', color='Black'} 
